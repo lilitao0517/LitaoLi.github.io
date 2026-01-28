@@ -24,7 +24,13 @@ I am a passionate researcher dedicated to artificial intelligence and computer v
 
 ## Publications 📚
 
-Check out my [publications](/publications/) and [talks](/talks/) to learn about my latest research achievements.
+- **ECCV 2024** - [Paper Title] (Title will be made public after graduation)
+- **ACM Multimedia 2025** - [Paper Title] (Title will be made public after graduation)
+- **ACPR 2025** - [Paper Title] (Title will be made public after graduation)
+- **ICLR 2026** - [Paper Title] (Title will be made public after graduation)
+- **CVPR 2026** (Under Review) - Two papers submitted
+
+*Note: Due to privacy concerns, paper titles are not currently displayed. Full details will be made available upon graduation.*
 
 ## Contact 📧
 
