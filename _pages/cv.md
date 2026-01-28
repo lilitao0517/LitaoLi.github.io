@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Alibaba Cloud Intelligence Group: Research Engineer (Future)
+* Alibaba Cloud Intelligence Group: Algorithm Engineer (Future)
   * Long-term research work in video generation and image editing
   * Focus on generative AI models for AI advertising and digital human scenarios
 

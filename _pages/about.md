@@ -20,20 +20,22 @@ My research interests primarily focus on computer vision, including:
 
 ## About Me 👋
 
-I am a passionate researcher dedicated to artificial intelligence and computer vision. During my graduate studies, I have been committed to exploring the applications of deep learning in visual understanding and generation tasks. I believe that multimodal AI technology will bring revolutionary breakthroughs to future artificial intelligence systems.
+I am a passionate researcher dedicated to artificial intelligence and computer vision. During my graduate studies, I have been committed to exploring the applications of deep learning in visual understanding and generation tasks.
 
 ## Publications 📚
 
-- **ECCV 2024** - [Paper Title] (Title will be made public after graduation)
-- **ACM Multimedia 2025** - [Paper Title] (Title will be made public after graduation)
-- **ACPR 2025** - [Paper Title] (Title will be made public after graduation)
-- **ICLR 2026** - [Paper Title] (Title will be made public after graduation)
+- **ECCV 2024**
+- **ACM Multimedia 2025** 
+- **ACPR 2025** 
+- **ICLR 2026** 
 - **CVPR 2026** (Under Review) - Two papers submitted
 
 *Note: Due to privacy concerns, paper titles are not currently displayed. Full details will be made available upon graduation.*
 
-## Contact 📧
+## Competitions & Awards 🏆
+- **CVPR 2026 Workshop SoccerNet VQA Challenge** - 🥇 Top-1 (Until Now)
 
-If you are interested in my research or would like to discuss academic collaboration, please feel free to contact me via seonyee@foxmail.com.
+## Contact 📧
+If you are interested in my research or would like to discuss academic collaboration, please feel free to contact me via **seonyee@foxmail.com.**
 
 ---
