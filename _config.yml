@@ -13,21 +13,20 @@ title                    : "Litao Li's Homepage"
 title_separator          : "-"
 name                     : &name "Litao Li"
 description              : &description "Litao Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://https://lilitao0517.github.io/LitaoLi.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : "https://lilitao0517.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+baseurl                  : "/LitaoLi.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "lilitao0517/LitaoLi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
+  avatar           : "profile.png"
   name             : "Litao Li"
   pronouns         : # example: "his"  
   bio              : "Currently pursuing a master's degree at South China University of Technology, specializing in computer vision, multimodal large models, UMM, and video generation."
-  location         : "HangZhou, China"
+  location         : "HangZhou, Zhejiang, China"
   employer         : "South China University of Technology / Alibaba Cloud. "
   uri              : # URL
   email            : "seonyee@foxmail.com" 
