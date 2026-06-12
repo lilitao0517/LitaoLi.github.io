@@ -11,38 +11,26 @@ redirect_from:
 
 Education
 ======
-* M.S. in Control Science and Engineering, South China University of Technology, 2023-2026 (Expected)
-* B.S. in Automation, South China University of Technology, 2019-2023
+* M.Eng. in Automation Science and Engineering, South China University of Technology
+* B.Eng. in Automation Science and Engineering, South China University of Technology
 
-Work experience
+Work Experience
 ======
-* Alibaba Cloud Intelligence Group: Algorithm Engineer (Future)
-  * Long-term research work in video generation and image editing
-  * Focus on generative AI models for AI advertising and digital human scenarios
-
-* Alibaba Cloud Intelligence Group: Research Intern
-  * Research on multi-person interaction control and fine-grained face editing using generative large models
-  * Provided reliable technical support for AI advertising and digital human applications
-
-* Huya Live: Research Intern
-  * Training video generation models for live streaming scenarios
-  * Developed and optimized generation techniques tailored for streaming applications
-
-* Baidu: Intern
-  * Design of object detection models
-  * Worked on computer vision model development and optimization
+* Alibaba Group: Computer Vision Algorithm Engineer
+  * Work on computer vision algorithm development and applied AI systems.
 
 Skills
 ======
 * **Computer Vision**
-  * Video Generation & Controllable Generation
-  * Image Editing & Fine-grained Instruction Editing
-  * Object Detection & Model Design
+  * Visual understanding
+  * Visual generation
+  * Algorithm design and optimization
 * **Deep Learning**
-  * Multimodal Large Models
-  * Generative AI & Large Language Models
-  * Model Training & Optimization
-* **Research Areas**
-  * Post-training Strategies
-  * Next-generation Architecture Design
-  * Unified Multimodal Models (UMM)
+  * Multimodal large models
+  * Generative AI
+  * Model training and optimization
+
+Contact
+======
+* Email: [seonyee@foxmail.com](mailto:seonyee@foxmail.com)
+* Google Scholar: [Litao Li](https://scholar.google.com/citations?user=PuTDyrcAAAAJ&hl=zh-CN)

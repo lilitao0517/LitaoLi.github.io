@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Litao Li's Homepage"
+title                    : "Litao Li | 李栗滔"
 title_separator          : "-"
 name                     : &name "Litao Li"
-description              : &description "Litao Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal homepage of Litao Li, Computer Vision Algorithm Engineer at Alibaba Group."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://lilitao0517.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "/LitaoLi.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "lilitao0517/LitaoLi.github.io"
@@ -25,22 +25,22 @@ author:
   avatar           : "profile.png"
   name             : "Litao Li"
   pronouns         : # example: "his"  
-  bio              : "Currently pursuing a master's degree at South China University of Technology, specializing in computer vision, multimodal large models, UMM, and video generation."
-  location         : "HangZhou, Zhejiang, China"
-  employer         : "South China University of Technology / Alibaba Cloud. "
+  bio              : "Computer Vision Algorithm Engineer at Alibaba Group. B.Eng. and M.Eng. in Automation Science and Engineering, South China University of Technology."
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Alibaba Group"
   uri              : # URL
   email            : "seonyee@foxmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=PuTDyrcAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-0874-9679"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lilitao0517"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
