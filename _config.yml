@@ -22,7 +22,7 @@ repository               : "lilitao0517/LitaoLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Litao Li"
   pronouns         : # example: "his"  
   bio              : "Computer Vision Algorithm Engineer at Alibaba Group. B.Eng. and M.Eng. in Automation Science and Engineering, South China University of Technology."
